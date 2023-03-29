@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "name": "John Doe",
+      "email": "john123@gmail.com",
+      "mobile": 9876567890,
+      "designation": "HR",
+      "gender": "male",
+      "course": "MCA",
+      "img": "Images/1.jpg",
+      "id": 1
+    },
+    {
+      "name": "Rena",
+      "email": "rena7011@gmail.com",
+      "mobile": "8812314455",
+      "designation": "Engineer",
+      "gender": "female",
+      "course": "BSC",
+      "img": "Images/emp2.jpg",
+      "id": 2
+    },
+    {
+      "name": "Sunil Kumar R K",
+      "email": "sunisunilkumar007@gmail.com",
+      "mobile": "7790881231",
+      "designation": "Sales",
+      "gender": "male",
+      "course": "BCA",
+      "img": "Images/emp1.jpg",
+      "id": 3
+    }
+  ]
+}

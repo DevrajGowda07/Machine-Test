@@ -1,0 +1,13 @@
+.dash{
+    text-align: center;
+    background-image: url("./emp2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: red;
+    width: 100%;
+    height: 92vh;
+}
+.dash h1{
+    padding-top: 80px;
+    font-weight: bold;
+}

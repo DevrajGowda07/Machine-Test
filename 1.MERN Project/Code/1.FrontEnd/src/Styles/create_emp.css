@@ -1,0 +1,21 @@
+.c_emp{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(32, 32, 32);
+    width: 100%;
+    height: 92vh;
+}
+.form{
+    background-color: rgba(156, 130, 197, 0.54);
+    padding: 12px 0px 12px 100px;
+    margin: 20px 0px 0px 20px;
+    width: 580px;
+    height: 550px;
+}
+.form_img{
+    padding: 12px 0px 12px 100px;
+    margin: 7px 0px 0px -210px;
+}
+.form label{
+    font-weight: bold;
+}

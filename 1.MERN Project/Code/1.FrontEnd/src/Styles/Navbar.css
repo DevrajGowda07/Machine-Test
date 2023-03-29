@@ -1,0 +1,17 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+.navbar .nav-link{
+    margin: 2px;
+    padding: 8px;
+    font-weight: bold;
+}
+.navbar .nav-link:hover{
+    color: red;
+}
+.active{
+    color: red;
+}

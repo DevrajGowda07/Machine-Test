@@ -1,0 +1,32 @@
+.log{
+    background-color: rgb(59, 57, 57);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 92vh;
+}
+.login{
+    background-color: transparent;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    width: 450px;
+    height: 400px;
+    padding: 20px;
+    box-shadow: 2px 2px 2px 2px rgb(2, 154, 134);
+}
+.login h1{
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+    margin-bottom: 10px;
+}
+.login label{
+    font-weight: bold;
+    color: rgb(29, 203, 29);
+}
+.btn{
+    margin: 10px 0px 0px 30px;
+}

@@ -1,0 +1,25 @@
+.list{
+    background-color: rgb(44, 43, 43);
+    width: 100%;
+    height: 92vh;
+}
+table{
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    width: 86%;
+}
+table th{
+    background-color: black;
+    color: white;
+    padding: 12px;
+    border: 2px solid red;
+}
+table td{
+    background-color: grey;
+    font-weight: bold;
+    padding: 8px;
+    margin: 2px;
+    border: 2px solid white;
+}
